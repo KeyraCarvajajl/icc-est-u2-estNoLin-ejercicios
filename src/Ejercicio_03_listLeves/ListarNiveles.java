@@ -77,9 +77,9 @@ public class ListarNiveles {
     public static void main(String[] args) {
         ListarNiveles arbol = new ListarNiveles();
 
-        //int[] valores = {4, 2, 7, 1, 3, 6, 9};
+        int[] valores = {4, 2, 7, 1, 3, 6, 9};
         //int[] valores = {5, 3, 9,11,2,1, 8};PRUEBA
-        int[] valores = {1, 5, 20, 48 ,6, 10, 8};
+        //int[] valores = {1, 5, 20, 48 ,6, 10, 8}; PRUEBA
         Node root = null;
 
         for (int valor : valores) {
