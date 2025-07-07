@@ -50,9 +50,9 @@ public class InvertBinaryTree {
         InvertBinaryTree tree = new InvertBinaryTree();
 
         // Valores para construir el árbol de ejemplo
-        //int[] values = {4, 2, 7, 1, 3, 6, 9};
-        //int[] values = {5, 3, 9,11,2,1, 8};
-        int[] values = {1, 5, 20, 48 ,6, 10, 8};
+        int[] values = {4, 2, 7, 1, 3, 6, 9};
+        //int[] values = {5, 3, 9,11,2,1, 8};   PRUEBA
+        //int[] values = {1, 5, 20, 48 ,6, 10, 8}; PRUEBA
         Node root = null;
 
         // Se insertan todos los valores en el árbol

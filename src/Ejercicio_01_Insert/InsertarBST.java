@@ -56,9 +56,9 @@ public class InsertarBST {
 
         int[] valores = {5, 3, 7, 2, 4, 6, 8}; // Valores de entrada (Input)
         
-        //int[] valores = {5, 3, 9,11,2,1, 8};
+        //int[] valores = {5, 3, 9,11,2,1, 8}; PRUEBA
 
-        //int[] valores = {1, 5, 20, 48 ,6, 10, 8};
+        //int[] valores = {1, 5, 20, 48 ,6, 10, 8}; PRUEBA
 
         for (int val : valores) {
             arbol.insertar(val); // Se insertan uno por uno en el árbol
