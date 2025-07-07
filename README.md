@@ -62,6 +62,10 @@ src/
 Carpeta: `Ejercicio_01_insert`
 Implementa un algoritmo para insertar nodos en un Árbol Binario de Búsqueda.
 
+Se implementa un árbol binario de búsqueda (BST). El método insert permite insertar un valor respetando las reglas de un BST. Además, se incluye una función printInOrder para verificar el contenido del árbol.
+Ejemplo de entrada: [5, 3, 7, 2, 4, 6, 8]
+Salida esperada en orden: 2 3 4 5 6 7 8
+
  **Input de ejemplo:** `[5, 3, 7, 2, 4, 6, 8]`
  **Output esperado:**
 
