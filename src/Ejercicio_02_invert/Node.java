@@ -1,10 +1,10 @@
 package Ejercicio_02_invert;
 
-public class Nodo {
+public class Node {
     public int value;
-    public Nodo left, right;
+    public Node left, right;
 
-    public Nodo(int value) {
+    public Node(int value) {
         this.value = value;
         this.left = this.right = null;
     }
